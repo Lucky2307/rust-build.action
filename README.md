@@ -1,3 +1,4 @@
+# Fork of https://github.com/rust-build/rust-build.action
 # (Unofficial) Rust Release Binary Github Action
 
 [![.github/workflows/build.yml](https://github.com/rust-build/rust-build.test/actions/workflows/build.yml/badge.svg)](https://github.com/rust-build/rust-build.test/actions/workflows/build.yml)

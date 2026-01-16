@@ -53,4 +53,4 @@ outputs:
     description: 'Relative path to the checksum of the archive'
 runs:
   using: 'docker'
-  image: 'docker://ghcr.io/Lucky2307/rust-build.action:v1.4.5-fix-xz'
+  image: 'docker://lucky2307/rust-build.action:v1.4.5-fix-xz'
